@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSearch.Nest.QueryBuilder", "ElasticSearch.Nest.QueryBuilder.csproj", "{E91F2715-BFD3-4B14-B273-2ED99A94FEC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91F2715-BFD3-4B14-B273-2ED99A94FEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91F2715-BFD3-4B14-B273-2ED99A94FEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91F2715-BFD3-4B14-B273-2ED99A94FEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91F2715-BFD3-4B14-B273-2ED99A94FEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F942841-7625-404B-8909-D4E3A7EB2379}
+	EndGlobalSection
+EndGlobal
